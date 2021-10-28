@@ -29,6 +29,7 @@ Bias can be present in our data before any model training occurs. Inspecting the
 # [Project 6: Train a model with Amazon SageMaker Autopilot](https://github.com/plaban1407/Train-a-model-with-Amazon-SageMaker-Autopilot)
 Using Amazon Sagemaker Autopilot to train a BERT-based natural language processing (NLP) model. The model will analyze customer feedback and classify the messages into positive (1), neutral (0) and negative (-1) sentiment.
 
+![](https://github.com/plaban1407/Plaban_Portfolio/blob/main/snapshots_of_the_projects/Project_6.JPG)
 
 # [Project 7: Applied_ML_with_5_different_algorithms](https://github.com/plaban1407/Applied_ML_with_5_different_algorithms)
 Applied 5 different algorithm on Titanic Dataset to build model to predict which people would survive based on some given attributes.
