@@ -57,3 +57,6 @@ Topics covered: -
 · Using XGBoost for Regression tasks 
 · Fine-tuning XGBoost's most important hyperparameters 
 · Incorporating XGBoost in pipelines
+
+![](https://github.com/plaban1407/Plaban_Portfolio/blob/main/snapshots_of_the_projects/Project_10.jpg)
+
