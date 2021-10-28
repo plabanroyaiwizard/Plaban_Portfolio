@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+# Plaban_Portfolio
+My Data Science Portfolio
 
-You can use the [editor on GitHub](https://github.com/plaban1407/Plaban_Portfolio/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Project 1: MedicareAI
+Medicare AI is a web application for instant diagnostic medical checkup for the patient, which can help doctors/healthcare providers. By analyzing the symptoms, the medicare ai system will help determine the severity of the disease in near real-time and guide the patient with the different stages – disease definition, precaution, and recommendation.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+# Project 2: Medicine Recommendation using Sentiment Analysis
+Performed data analysis for the reviews collected from the patients for the Medicine/Drug name recommendation. In the data exploration part, we used visualization and statistical analysis techniques to understand data. Through this process, we determined the topic to preprocess the data which will fit the objective. We have then created different variables to fit the machine learning model. For the modelling part, we implemented the emotional sentiment analysis using the word dictionary by Harvard, n-gram with deep learning etc.
 
-### Markdown
+# Project 3: Cash Machine Trading Simulator
+An web application to simulate stock trading Simulator. Fetching stock data Using yahoo finance API . Implemented the “Simple Moving Average” algorithm to understand the stock performance over the years and predict buy/sell signals accordingly. Used flask packages to develop a web application to view the simulation results according to user preferences.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+# Project 4: Stock Price Prediction using LSTM
+Predicting stock pricing using Long short-term memory.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/plaban1407/Plaban_Portfolio/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# Project 5: Detecting Credit Card Fraud
+Detecting Credit Card Fraud using different machine learning and deep learning algorithms
