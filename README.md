@@ -3,7 +3,7 @@ My Data Science Portfolio
 
 # [Project 1: MedicareAI](https://github.com/plaban1407/Medicare-AI)
 Implemented a flask web application with machine learning for instant medical checkups for the patients, which can help doctors/healthcare providers. By analyzing the symptoms Medicare AI system determines the severity of the disease in near real-time and guides the patient with – disease definition, precaution, and recommendations.
-![](https://github.com/plaban1407/Plaban_Portfolio/blob/main/snapshots_of_the_projects/Project_1.JPG)
+![](https://github.com/plaban1407/Plaban_Portfolio/blob/main/snapshots_of_the_projects/MedicareAI_Project_1.JPG)
 
 # [Project 2: Medicine Recommendation using Sentiment Analysis](https://github.com/plaban1407/Medicine-Recommendation-using-Sentiment-Analysis)
 Performed data analysis for the reviews collected from the patients for the Medicine/Drug name recommendation. In the data exploration part, we used visualization and statistical analysis techniques to understand data. Through this process, we determined the topic to preprocess the data which will fit the objective. We have then created different variables to fit the machine learning model. For the modelling part, we implemented the emotional sentiment analysis using the word dictionary by Harvard, n-gram with deep learning etc.
