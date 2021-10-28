@@ -1,5 +1,5 @@
 # Plaban's Portfolio
-My Data Science Portfolio
+My Data Science Portfolio!
 
 # [Project 1: MedicareAI](https://github.com/plaban1407/Medicare-AI)
 Implemented a flask web application with machine learning for instant medical checkups for the patients, which can help doctors/healthcare providers. By analyzing the symptoms Medicare AI system determines the severity of the disease in near real-time and guides the patient with – disease definition, precaution, and recommendations.
@@ -59,4 +59,3 @@ Topics covered: -
 · Incorporating XGBoost in pipelines
 
 ![](https://github.com/plaban1407/Plaban_Portfolio/blob/main/snapshots_of_the_projects/Project_10.jpg)
-
