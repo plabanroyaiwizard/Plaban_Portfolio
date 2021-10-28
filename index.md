@@ -2,7 +2,7 @@
 My Data Science Portfolio
 
 # [Project 1: MedicareAI](https://github.com/plaban1407/Medicare-AI)
-Medicare AI is a web application for instant diagnostic medical checkup for the patient, which can help doctors/healthcare providers. By analyzing the symptoms, the medicare ai system will help determine the severity of the disease in near real-time and guide the patient with the different stages – disease definition, precaution, and recommendation.
+Medicare AI uses machine learning algorithms for instant diagnostic medical checkup for the patient, which can help doctors/healthcare providers. By analyzing the symptoms, the medicare ai system will help determine the severity of the disease in near real-time and guide the patient with the different stages – disease definition, precaution, and recommendation.
 
 # [Project 2: Medicine Recommendation using Sentiment Analysis](https://github.com/plaban1407/Medicine-Recommendation-using-Sentiment-Analysis)
 Performed data analysis for the reviews collected from the patients for the Medicine/Drug name recommendation. In the data exploration part, we used visualization and statistical analysis techniques to understand data. Through this process, we determined the topic to preprocess the data which will fit the objective. We have then created different variables to fit the machine learning model. For the modelling part, we implemented the emotional sentiment analysis using the word dictionary by Harvard, n-gram with deep learning etc.
